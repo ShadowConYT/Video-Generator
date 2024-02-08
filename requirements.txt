@@ -1,0 +1,4 @@
+elevenlabs
+moviepy
+scipy
+google-generativeai
