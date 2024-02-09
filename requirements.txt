@@ -2,3 +2,5 @@ elevenlabs
 moviepy
 scipy
 google-generativeai
+openai-whisper
+pyttsx3
