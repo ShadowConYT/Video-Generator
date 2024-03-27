@@ -6,3 +6,4 @@ openai-whisper
 pyttsx3
 python-dotenv
 elevenlabs==0.3.0b0
+git+https://github.com/rezoo/movis.git
